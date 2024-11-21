@@ -131,6 +131,11 @@ public class SwitchDie : MonoBehaviour
         spawnDie = true;
 
     }
+
+    public void AddATestMedhos()
+    {
+        Debug.Log("Yello");
+    }
     
     public void playAgain()
     {
