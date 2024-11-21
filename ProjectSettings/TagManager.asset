@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DIE1
+  - dieParent
+  - DIE2
+  - DIE3
+  - DIE4
+  - DIE5
+  - DIE6
+  - RainDrop
+  - RainDropSpawner
+  - Floor
+  - RainCharacter
+  - SlimeGetObject
+  - slimeSpawner
+  - Die1Coll
+  - ClickObject
+  - BasketBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - DieCollision
+  - Die1Layer
+  - Die2Layer
+  - Die3Layer
+  - Die4Layer
+  - Die5Layer
+  - Die6Layer
+  - Rain
+  - Slimes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
